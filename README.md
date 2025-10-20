@@ -2,7 +2,7 @@
 🧠 Sales Prediction using Machine Learning
 This project uses Python and Machine Learning to predict future sales based on historical data. The goal is to help businesses make data-driven decisions, identify trends, and plan effectively for upcoming sales periods.
 🚀 Project Overview
-The Sales Prediction model is built using Linear Regression (or whichever model you used e.g., Random Forest, Decision Tree, etc.) to predict sales based on key features such as:
+The Sales Prediction model is built using Linear Regression (or whichever model you used to predict sales based on key features such as:
 	•	Advertising spend
 	•	Product price
 	•	Marketing data
