@@ -20,4 +20,4 @@ You can easily customize the dataset and improve the model accuracy with additio
 	•	Pandas, NumPy
 	•	Matplotlib, Seaborn
 	•	Scikit-learn
-	•	Jupyter Notebook / Google Colab
+	•	Pycharm
